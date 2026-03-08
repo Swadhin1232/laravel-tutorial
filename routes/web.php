@@ -18,10 +18,10 @@ Route::get('/', function () {
 
 
 //parameterized route
-Route::get('/post/{id?}', function ($id = null) {
-    if($id){
-        return "<h1>Post id is:".$id."</h1>";
-    }else{
-    return "<h1>No post id provided</h1>";
-    }
-});
+// Route::get('/post/{id?}', function ($id = null) {
+//     if($id){
+//         return "<h1>Post id is:".$id."</h1>";
+//     }else{
+//     return "<h1>No post id provided</h1>";
+//     }
+// });
