@@ -1,8 +1,38 @@
-@include('pages.header',['name' => 'swadhin'])
-
 
 <h1> Home : first page</h1>
-@include('pages.footer')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{-- @include('pages.header',['name' => 'swadhin']) --}}
+
+
+{{-- <h1> Home : first page</h1> --}}
+
 
 
 
